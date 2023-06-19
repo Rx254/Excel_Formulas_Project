@@ -2,6 +2,7 @@ Used MAX and MIN formula to find out the employees that had the earliest start d
 Used IF to find employees older and younger than 30 years. Used IFS to categorzies Salesmen, HR to be fired and Regional Manager to receive a christmas bonus.
 Used LEN to see if any errors in employee id column.
 Used LEFT to find 3 first letters of employees names. Used RIGHT to find last number of employee id. Used right to find employee's start dates.
+Used TEXT to alter date to text format.
 Used TRIM to remove extra spaces on last name column
 Used CONCATENATE to format first and last name together and used it to create emails using first and last name with a dot in the middle.
 Used SUBSTITUTE with different instances to change date formating.
