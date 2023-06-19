@@ -1,0 +1,10 @@
+Used MAX and MIN formula to find out the employees that had the earliest start date and the latest start date.
+Used IF to find employees older and younger than 30 years. Used IFS to categorzies Salesmen, HR to be fired and Regional Manager to receive a christmas bonus.
+Used LEN to see if any errors in employee id column.
+Used LEFT to find 3 first letters of employees names. Used RIGHT to find last number of employee id. Used right to find employee's start dates.
+Used TRIM to remove extra spaces on last name column
+Used CONCATENATE to format first and last name together and used it to create emails using first and last name with a dot in the middle.
+Used SUBSTITUTE with different instances to change date formating.
+Used SUM to compute salaries for all employees. Used SUM IF to compute salaries for employees making more than $60,000/. Used SUM IFS to calculate salaries for female employees older than 30yrs.
+Used COUNT to calculate all employees who received a salary. Used COUNT IF to calculate all employees who made more than $45,000/. Used COUNT IFS to calculate all employees with employee id greater than 1005 who are male.
+Used DAYS to count all days worked by each employee. Used NETWORK DAYS to calculate all days worked for each employee excluding holidays.
